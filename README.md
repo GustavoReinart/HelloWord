@@ -1,2 +1,4 @@
 # HelloWord
- Primeiro repositorio do curso git e github
+Repositorio do curso Git e Github
+
+Criado durante a aula!
