@@ -1,6 +1,6 @@
 # HelloWord
-Repositorio do curso Git e Github
+Repository of the Git and Github
 
-Criado durante a aula!
+Created during class!
 
 Esta alteracao foi feita pelo Github
